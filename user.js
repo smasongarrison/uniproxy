@@ -22,28 +22,29 @@
 // @author        Hugo van den Berg
 // @namespace     http://userscripts.org/users/540948
 // @description   Inserts a proxy-url into all URLs, going through library proxy for full-text journal access. **** You MUST edit to add your libraries proxy, else it won't work !! ****
-// @include       https?://*.wiley.com/*
-// @include       http://*.sciencedirect.com/*
-// @include       http://*.springerlink.com/*
-// @include       http://*.springer.com/*
-// @include       http://*.umi.com/*
-// @include       http://*.blackwell-synergy.com/*
-// @include       http://*.nature.com/*
-// @include       http://*.tandf.co.uk/*
-// @include       http://*.portlandpress.co.uk/*
-// @include       http://*.portlandpress.com/*
-// @include       http://*.oxfordjournals.org/*
-// @include       http://*.bmjjournals.com/*
-// @include       http://scitation.aip.org/*
-// @include       http://*apc.org/*
-// @include       http://*.ebscohost.com
-// @include       http://*.biophysj.org/*
-// @include       http://*.sciencemag.org/*
-// @include       http://*.ingentaconnect.com/*
-// @include       http://www.ncbi.nlm.nih.gov/*
-// @include       http://*.annualreviews.org/*
-// @include       http://*.proteinscience.org/*
-// @include       http://*.informaworld.com/*
+// @include       *://*.wiley.com/*
+// @include       *://*.sciencedirect.com/*
+// @include       *://*.springerlink.com/*
+// @include       *://*.springer.com/*
+// @include       *://*.umi.com/*
+// @include       *://*.blackwell-synergy.com/*
+// @include       *://*.nature.com/*
+// @include       *://*.tandf.co.uk/*
+// @include       *://*.portlandpress.co.uk/*
+// @include       *://*.portlandpress.com/*
+// @include       *://*.oxfordjournals.org/*
+// @include       *://*.bmjjournals.com/*
+// @include       *://scitation.aip.org/*
+// @include       *://*apc.org/*
+// @include       *://*.ebscohost.com/*
+// @include       *://*.tandfonline.com/*
+// @include       *://*.biophysj.org/*
+// @include       *://*.sciencemag.org/*
+// @include       *://*.ingentaconnect.com/*
+// @include       *://www.ncbi.nlm.nih.gov/*
+// @include       *://*.annualreviews.org/*
+// @include       *://*.proteinscience.org/*
+// @include       *://*.informaworld.com/*
 // ==/UserScript==
 
 // PUT YOU INSTITUTIONS PROXY DOMAIN IN HERE
