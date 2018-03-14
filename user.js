@@ -22,7 +22,7 @@
 // @author        Hugo van den Berg
 // @namespace     http://userscripts.org/users/540948
 // @description   Inserts a proxy-url into all URLs, going through library proxy for full-text journal access. **** You MUST edit to add your libraries proxy, else it won't work !! ****
-// @include       http://*.wiley.com/*
+// @include       https?://*.wiley.com/*
 // @include       http://*.sciencedirect.com/*
 // @include       http://*.springerlink.com/*
 // @include       http://*.springer.com/*
@@ -36,6 +36,7 @@
 // @include       http://*.bmjjournals.com/*
 // @include       http://scitation.aip.org/*
 // @include       http://*apc.org/*
+// @include       http://*.ebscohost.com
 // @include       http://*.biophysj.org/*
 // @include       http://*.sciencemag.org/*
 // @include       http://*.ingentaconnect.com/*
