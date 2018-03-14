@@ -51,7 +51,7 @@
 //var proxyname = ".ezproxy.lib.unimelb.edu.au";
 // Utrecht University, The Netherlands, uses the following proxy server:
 //var proxyname = ".proxy.library.uu.nl";
-var proxyname = ".proxy.library.uu.nl";
+var proxyname = ".proxy.library.vanderbilt.edu";
 
 
 // Create a link element to easily edit the current URL
